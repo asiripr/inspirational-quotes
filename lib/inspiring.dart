@@ -73,7 +73,6 @@ class _InspiringState extends State<Inspiring> {
                       receivedAuthor = doc['author']; 
                     });    
                   }
-                  
                 },
                 child: Container(
                   width: 80,
